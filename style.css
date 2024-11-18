@@ -34,7 +34,7 @@ nav {
     height: 40px;
     line-height: 40px;
     background: #fff;
-    color: blue;
+    color:rgb(255, 192, 251);
     box-shadow: 0 5px 10px rgba(255, 26, 26, 0.22);
 }
 
@@ -63,7 +63,7 @@ nav {
     -webkit-appearance: none;
     width: 100%;
     height: 6px;
-    background:blue;
+    background:rgb(255, 192, 225);
     border-radius: 4px;
     cursor: pointer;
     margin: 40px 0;
